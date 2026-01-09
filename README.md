@@ -14,12 +14,12 @@ This project implements an optimized on-device LLM inference engine for Apple Si
 ## Quick Start
 
 1. **Install dependencies:**
-   ```bash
-   python3 -m venv venv
-   source venv/bin/activate
-   pip install --upgrade pip
-   pip install -r requirements.txt
-   ```
+```bash
+python3 -m venv venv
+source venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+```
 
 ## Project Structure
 
