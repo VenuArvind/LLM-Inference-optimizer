@@ -21,12 +21,6 @@ This project implements an optimized on-device LLM inference engine for Apple Si
    pip install -r requirements.txt
    ```
 
-2. **Verify setup:**
-   ```bash
-   python verify_setup.py
-   ```
-   This will check Python version, PyTorch MPS support, and all dependencies.
-
 ## Project Structure
 
 ```
@@ -37,7 +31,4 @@ LLM-Inference-optimizer/
 └── results/          # Benchmark results and plots
 ```
 
-## Target Models
-
-- Llama-3.2-1B
-- Phi-3-mini
+## Results
